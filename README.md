@@ -10,7 +10,7 @@ I am also an open-source lover. I learned a lot from the open-source community a
     🎯 My Goal is to Contribute to as many **open source project** as possible.<br>
     ✨ I love to create different types of **contents**.
 <td >
-# Daily Reads
+
   <a href="https://app.daily.dev/BlackRock2308"><img src="https://api.daily.dev/devcards/6b5dd17da0fe46d6af0b40d6cd8d0356.png?r=v9i" width="400" alt="mbaye_mc2's Dev Card"/></a>
   </td>
 </tr>
