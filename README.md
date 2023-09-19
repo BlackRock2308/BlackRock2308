@@ -14,8 +14,6 @@ I enjoy sharing tips and tricks discovered through my journey....<br>
 </tr>
 </table>
 
-# Contibutions![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=BlackRock2308&theme=dracula&hide_border=true)
-
 
 ## Stats📈 
 <p align="center"> <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=BlackRock2308&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&layout=compact&hide_border=true" alt="BlackRock2308" />  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=BlackRock2308&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&hide_border=true" alt="BlackRock2308" /> <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=BlackRock2308&theme=highcontrast&hide_border=true" alt="BlackRock2308" /> </p>
