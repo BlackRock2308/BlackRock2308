@@ -4,11 +4,9 @@
 <table>
 <tr>
   <td valign="center">
-   I'm a passionate web developer 🧑‍💻 and Cloud/Devops enthusiast from Dakar 🇸🇳 . I'm highly focus on building skills on architecture, and code quality when I'm building a new thing.<br>
-I am also an open-source lover. I learned a lot from the open-source community and I love to collaborate and share tips with thos people in open-source area.<br>
-    🎓 I am currently pursuing my **Engineer's degree in Computer Science and Telecommunication**.<br>
-    🎯 My Goal is to Contribute to as many **open source project** as possible.<br>
-    ✨ I love to create different types of **contents**.
+ Software Engineer 🧑‍💻 and Junior Cloud & Devops Engineer .<br> I'm highly focus on building cloud based application with an end to end DevOps approach using the latest technologies for a better product.<br> A craftsmanship who cares a lot about hight availability, scalibility and resilience of software on the cloud.<br>
+I enjoy sharing tips and tricks discovered through my journey....<br>
+  
 <td >
 
   <a href="https://app.daily.dev/BlackRock2308"><img src="https://api.daily.dev/devcards/6b5dd17da0fe46d6af0b40d6cd8d0356.png?r=v9i" width="400" alt="mbaye_mc2's Dev Card"/></a>
