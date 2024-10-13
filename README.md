@@ -4,8 +4,7 @@
 <tr>
   <td valign="center">
     Passionate Data Engineer 🧑‍💻 focused on creating modern data platforms. Skilled in implementing Cloud and on-premise solutions to enhance data value. I enjoy sharing tips and tricks discovered through my journey....<br>
-    Currently pursuing a Master's in Information Systems and Decision Support at INP ISIMA.<br>
-    Let's connect! 📫 mbayemc2@gmail.com | 📞 0753452555 | 🏠 Drancy, 93700, France
+    Let's connect! 📫 mbayemc2@gmail.com 
   </td>
   <td>
     <a href="https://app.daily.dev/BlackRock2308"><img src="https://api.daily.dev/devcards/6b5dd17da0fe46d6af0b40d6cd8d0356.png?r=v9i" width="400" alt="mbaye_mc2's Dev Card"/></a>
@@ -71,10 +70,5 @@
 - Google Cloud Big Data and Machine Learning Fundamentals
 - Modernizing Data Lakes and Data Warehouses with Google Cloud
 - Fundamentals of Kubernetes Deployment
-
-## Languages
-
-- English (fluent)
-- French (fluent)
 
 Let's connect and collaborate on exciting data engineering projects!
